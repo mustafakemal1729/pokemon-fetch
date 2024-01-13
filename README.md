@@ -14,3 +14,5 @@ Pokémon Fetch is fetches Pokémon data from PokeAPI using HTML, CSS, and JavaSc
 2. Enter the name of the Pokémon you want to fetch in the provided input field.
 3. Click the "Fetch Pokémon" button.
 4. The corresponding Pokémon sprite will be displayed.
+
+![Example](example.png)
