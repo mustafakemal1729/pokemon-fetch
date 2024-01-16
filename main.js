@@ -2,7 +2,6 @@
 //             Simplifies asynchronous data fetching in JavaScript and
 //             used for interacting with the PokeAPI to retrieve and display
 //             Pokémon sprites.
-//             fetchData();
 
 fetchData();
 
